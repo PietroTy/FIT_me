@@ -1,0 +1,18 @@
+.logo {
+    margin-top: 50px;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+.btn-group {
+    margin-top: 150px;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+.carousel-inner {
+    margin-top: 120px;
+
+}
